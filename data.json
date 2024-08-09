@@ -1,0 +1,104 @@
+{
+    "personas": [
+        {
+            "nombre": "Leila",
+            "edad": 25,
+            "imagen": "https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_80,w_820/v1576497292/content-items/003/518/323/Da-33-2-original.jpg?1576497292"
+        },
+        {
+            "nombre": "Carlos",
+            "edad": 30,
+            "imagen": "https://64.media.tumblr.com/6bb9bd109a6c73b074c5798b98f83b6c/8e3e6129ccf1e25d-bc/s1280x1920/5b4e9b2714533a7ae943e843f9f45c9ed76f3ada.png"
+        },
+        {
+            "nombre": "Maria",
+            "edad": 22,
+            "imagen": "https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_80,w_820/v1576497450/content-items/003/518/343/_MG_8302-original.jpg?1576497450"
+        },
+        {
+            "nombre": "Javier",
+            "edad": 28,
+            "imagen": "https://images.squarespace-cdn.com/content/v1/5475d776e4b0930af419049d/1598457298796-K1I0IGMJFTDTJDID6RME/bernat_selccio-14.jpg"
+        },
+        {
+            "nombre": "Sofia",
+            "edad": 27,
+            "imagen": "https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_80,w_820/v1576498099/content-items/003/518/399/WhatsApp_Image_2019-10-09_at_10.25.17-2-original.jpeg?1576498099"
+        },
+        {
+            "nombre": "Lucas",
+            "edad": 24,
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC67h_X0oo34LcDGXFWmiHFZoh_0uIcAuqQP5hW8kYxwdv5snw730I_CoB-hO_WHii9YI"
+        },
+        {
+            "nombre": "Camila",
+            "edad": 29,
+            "imagen": "https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_80,w_820/v1576497514/content-items/003/518/345/AuroraCastillo-38-original.jpg?1576497514"
+        },
+        {
+            "nombre": "Mateo",
+            "edad": 26,
+            "imagen": "https://fabianmedina.co/wp-content/uploads/sb-instagram-feed-images/437485325_280665038431189_3310380662502917386_n.heicfull.jpg"
+        },
+        {
+            "nombre": "Valentina",
+            "edad": 21,
+            "imagen": "https://newskillsacademy.co.uk/assets/cdn/media/2021-10/Selfie-masterclass-US-a0de3cbf178d2689d13033b1e5993a4c.png"
+        },
+        {
+            "nombre": "Martín",
+            "edad": 31,
+            "imagen": "https://i.pinimg.com/originals/a7/70/08/a7700886513fa7d67b537c705a985761.jpg"
+        },
+        {
+            "nombre": "Isabella",
+            "edad": 23,
+            "imagen": "https://i.pinimg.com/736x/ac/58/95/ac5895a620dcdc1b6326ba8903d5e3bc.jpg"
+        },
+        {
+            "nombre": "Andrés",
+            "edad": 27,
+            "imagen": "https://t3.ftcdn.net/jpg/03/79/83/74/360_F_379837412_QgNlDk5OJFYBhgKTHL4F6XUGmWVaZYPq.jpg"
+        },
+        {
+            "nombre": "Lucía",
+            "edad": 25,
+            "imagen": "https://denverselfiemuseum.com/wp-content/uploads/2022/12/good-selfie-.jpg"
+        },
+        {
+            "nombre": "Diego",
+            "edad": 30,
+            "imagen": "https://media.istockphoto.com/id/1484631693/es/foto/retrato-de-un-joven-cauc%C3%A1sico-adolescente-de-18-o-19-a%C3%B1os-al-aire-libre.jpg?s=612x612&w=0&k=20&c=AH7f1geIm-toSuCSrU60UJdFh4L0VZf2zhUC5xPbb1o="
+        },
+        {
+            "nombre": "Emma",
+            "edad": 22,
+            "imagen": "https://media.istockphoto.com/id/1486674561/es/foto/joven-mujer-tomando-un-autorretrato.webp?b=1&s=170667a&w=0&k=20&c=6Jzhmp4c7a_UOzFukgcqmmWYvj5ZEjkHov6IS_ls4L0="
+        },
+        {
+            "nombre": "Sebastián",
+            "edad": 28,
+            "imagen": "https://img.freepik.com/foto-gratis/hombre-sonriente-tomando-selfie-al-aire-libre-tiro-medio_23-2149556990.jpg"
+        },
+        {
+            "nombre": "Mia",
+            "edad": 24,
+            "imagen": "https://s3.wasabisys.com/instax/74/instax/2022/02/selfie-perfeita-1645045838-2048x1366.jpeg"
+        },
+        {
+            "nombre": "Tomás",
+            "edad": 29,
+            "imagen": "https://st3.depositphotos.com/6672578/15113/i/450/depositphotos_151133958-stock-photo-man-taking-selfie.jpg"
+        },
+        {
+            "nombre": "Olivia",
+            "edad": 21,
+            "imagen": "https://st4.depositphotos.com/2931363/22280/i/450/depositphotos_222805658-stock-photo-stylish-young-african-woman-sunglasses.jpg"
+        },
+        {
+            "nombre": "David",
+            "edad": 26,
+            "imagen": "https://img.freepik.com/foto-gratis/cerrar-hombre-sonriente-tomando-selfie_23-2149155156.jpg"
+        }
+    ]
+}
